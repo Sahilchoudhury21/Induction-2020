@@ -1,0 +1,2 @@
+- The extra .txt files are related to FILE HANDLNG topic.
+- Examples have been created using those .txt files.
